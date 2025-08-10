@@ -1,0 +1,31 @@
+                                6 Months DS Roadmap
+M__01 (4_weeks) 
+(10-12h)per week
+    Python/SQL
+    Stats/Linear Alg.
+
+M__02 (4_weeks)
+(10-12h)per week
+    Data Analysis
+    Data Visualization
+
+M__03 (4_weeks)
+(12-14h)per_week
+    Machine Learning
+
+M__04 (4_weeks)
+(10-12h)per week
+    Projects
+    Portfolio
+
+M__05 (4_weeks)
+(10-12h)per week
+    Deep Learning Basics
+    Big Data/AI Ethics
+
+M__06 (4_weeks)
+(10-12h)per week
+    Job searching
+    Interview Prep    
+
+
